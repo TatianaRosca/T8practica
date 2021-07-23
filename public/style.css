@@ -1,8 +1,8 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url('/public/imagis/exemple/common/img/logo.png');
+    background-image: url('./imagis/exemple/common/img/unnamed.jpg' );
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
     margin: 0;
     padding: 0;
 }
@@ -17,14 +17,18 @@ header{
     color: mintcream;
 }
 
-header img{
-    width: 100px;
+img.poza {
+    margin: 0 auto;
+    display: block;
 }
 
 header h1{
     font-size: 23px;
 }
 
+section.spatiu {
+    padding-top: 2px
+}
 section{
     background-color: #ffffff55;
     padding: 5em;
