@@ -11,7 +11,7 @@ body{
 header{
     font-size: 33px;
     font-weight: bold;
-    background-color: mediumslateblue;
+    background-color: #d866bf99;
     text-align: center;
     padding: 1em;
     color: mintcream;
@@ -87,7 +87,7 @@ ul li ul li a{
 
 
 footer{
-    background-color: navy;
+    background-color: #6c0080;
     color: white;
     text-align: center;
     height: 10em;
